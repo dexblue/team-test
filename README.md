@@ -1,3 +1,4 @@
-#testing to see if there are any issues 
 
-# My favorite candy is starburst
+Exercise 1
+My favorite candy is milky way
+
