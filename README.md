@@ -1,2 +1,3 @@
-Exercise 1
-testing to see if there are any issues 
+#testing to see if there are any issues 
+
+# My favorite candy is starburst
